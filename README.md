@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a personal portfolio and small web projects mixing development and graphic design.  <br>I’m looking to collaborate on any kind of development project where I can learn and contribute (web, software, games, tools, etc.).<br>I’m currently learning everything I can in web development but for now React, PHP, as well as motion design and digital media.  
+I’m currently working on small web projects mixing development and graphic design.  <br>I’m looking to collaborate on any kind of development project where I can learn and contribute (web, software, games, tools, etc.).<br>I’m currently learning everything I can in web development but for now React, PHP, as well as motion design and digital media.  
 
 
 ## 🌐 Socials:
